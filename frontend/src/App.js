@@ -33,19 +33,5 @@ const App = () => {
 
 export default App;
 
-// import React from 'react';
-// import LifecycleLogger from './LifecycleLogger';
-// import Countdown from './Countdown';
-
-// function App() {
-//   return (
-//     <div>
-//       <LifecycleLogger />
-//       <Countdown start={10} />
-//     </div>
-//   );
-// }
-
-// export default App;
 
 
